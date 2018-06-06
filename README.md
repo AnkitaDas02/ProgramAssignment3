@@ -18,7 +18,7 @@ For each record it is provided:
 - Its activity label. 
 - An identifier of the subject who carried out the experiment.
 
-For this project, the following steps have been carried of on the data files provided:
+For this project, the following steps have been carried out on the data files provided:
 =========================================================================================
 
 1.	The training and the test sets have been merged to create one data set.
